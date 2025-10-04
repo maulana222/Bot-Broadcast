@@ -1185,3 +1185,136 @@ KeyboardInterrupt
 2025-10-04 20:29:51,721 - Successfully connected to user: digiprosb_cs
 2025-10-04 20:29:51,724 - Event handlers have been set up successfully
 2025-10-04 20:29:51,842 - Pesan startup berhasil dikirim
+2025-10-04 21:01:31,552 - Loaded 5 messages from storage
+2025-10-04 21:01:31,552 - Loaded cooldowns for 0 groups
+2025-10-04 21:01:31,552 - Connecting to 91.108.56.123:443/TcpFull...
+2025-10-04 21:01:31,579 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-10-04 21:01:31,828 - Client telah terhubung
+2025-10-04 21:01:31,868 - Successfully connected to user: CsIPS
+2025-10-04 21:01:31,868 - Event handlers have been set up successfully
+2025-10-04 21:01:32,025 - Pesan startup berhasil dikirim
+2025-10-04 21:19:05,200 - Loaded 5 messages from storage
+2025-10-04 21:19:05,200 - Loaded cooldowns for 0 groups
+2025-10-04 21:19:05,216 - Connecting to 91.108.56.123:443/TcpFull...
+2025-10-04 21:19:05,236 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-10-04 21:19:05,448 - Client telah terhubung
+2025-10-04 21:19:05,490 - Successfully connected to user: CsIPS
+2025-10-04 21:19:05,493 - Event handlers have been set up successfully
+2025-10-04 21:19:05,668 - Pesan startup berhasil dikirim
+2025-10-04 21:19:31,324 - ✅ Penjadwalan diaktifkan
+2025-10-04 21:19:35,742 - Starting scheduled message forwarding process...
+2025-10-04 21:19:35,793 - Successfully connected to user: CsIPS
+2025-10-04 21:19:35,823 - Message with ID 31608 not found, removing from queue
+2025-10-04 21:19:35,823 - Saved 4 messages to storage
+2025-10-04 21:19:35,823 - Starting scheduled message forwarding process...
+2025-10-04 21:19:35,864 - Successfully connected to user: CsIPS
+2025-10-04 21:19:35,905 - Message with ID 31612 not found, removing from queue
+2025-10-04 21:19:35,907 - Saved 3 messages to storage
+2025-10-04 21:19:35,908 - Starting scheduled message forwarding process...
+2025-10-04 21:19:35,929 - Successfully connected to user: CsIPS
+2025-10-04 21:19:35,988 - Message with ID 31616 not found, removing from queue
+2025-10-04 21:19:35,988 - Saved 2 messages to storage
+2025-10-04 21:19:35,988 - Starting scheduled message forwarding process...
+2025-10-04 21:19:36,015 - Successfully connected to user: CsIPS
+2025-10-04 21:19:36,051 - Message with ID 31618 not found, removing from queue
+2025-10-04 21:19:36,057 - Saved 1 messages to storage
+2025-10-04 21:19:36,057 - Starting scheduled message forwarding process...
+2025-10-04 21:19:36,093 - Successfully connected to user: CsIPS
+2025-10-04 21:19:36,129 - Message with ID 31623 not found, removing from queue
+2025-10-04 21:19:36,129 - Saved 0 messages to storage
+2025-10-04 21:19:40,896 - Saved 1 messages to storage
+2025-10-04 21:19:40,896 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-10-04 21:19:41,130 - Starting scheduled message forwarding process...
+2025-10-04 21:19:41,177 - Successfully connected to user: CsIPS
+2025-10-04 21:19:41,380 - Message successfully forwarded to group -1001074420898
+2025-10-04 21:19:41,380 - Saved cooldowns for 1 groups
+2025-10-04 21:19:41,380 - Set cooldown for group -1001074420898 for 60 seconds (until 2025-10-04 21:21:10.380762)
+2025-10-04 21:19:42,404 - Error forwarding to group -1001092684469: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:42,404 - Saved cooldowns for 2 groups
+2025-10-04 21:19:42,404 - Set cooldown for group -1001092684469 for 3600 seconds (until 2025-10-04 22:20:14.404030)
+2025-10-04 21:19:42,448 - Error forwarding to group -1001103018847: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:42,448 - Saved cooldowns for 3 groups
+2025-10-04 21:19:42,450 - Set cooldown for group -1001103018847 for 3600 seconds (until 2025-10-04 22:20:02.448809)
+2025-10-04 21:19:42,467 - Error forwarding to group -1001165415900: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:42,467 - Saved cooldowns for 4 groups
+2025-10-04 21:19:42,467 - Set cooldown for group -1001165415900 for 3600 seconds (until 2025-10-04 22:20:11.467899)
+2025-10-04 21:19:42,513 - Error forwarding to group -1001169191009: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:42,513 - Saved cooldowns for 5 groups
+2025-10-04 21:19:42,513 - Set cooldown for group -1001169191009 for 3600 seconds (until 2025-10-04 22:19:54.513255)
+2025-10-04 21:19:42,530 - Error forwarding to group -1001171926447: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:42,545 - Saved cooldowns for 6 groups
+2025-10-04 21:19:42,545 - Set cooldown for group -1001171926447 for 3600 seconds (until 2025-10-04 22:19:59.530114)
+2025-10-04 21:19:42,575 - Error forwarding to group -1001173604751: RPCError 403: CHAT_SEND_PHOTOS_FORBIDDEN (caused by ForwardMessagesRequest)
+2025-10-04 21:19:42,585 - Saved cooldowns for 7 groups
+2025-10-04 21:19:42,585 - Set cooldown for group -1001173604751 for 3600 seconds (until 2025-10-04 22:20:29.585917)
+2025-10-04 21:19:42,613 - Error forwarding to group -1001345824902: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:42,613 - Saved cooldowns for 8 groups
+2025-10-04 21:19:42,618 - Set cooldown for group -1001345824902 for 3600 seconds (until 2025-10-04 22:20:31.613073)
+2025-10-04 21:19:42,655 - Error forwarding to group -1001350748176: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:42,655 - Saved cooldowns for 9 groups
+2025-10-04 21:19:42,655 - Set cooldown for group -1001350748176 for 3600 seconds (until 2025-10-04 22:19:55.655643)
+2025-10-04 21:19:42,682 - Error forwarding to group -1001370164075: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:42,682 - Saved cooldowns for 10 groups
+2025-10-04 21:19:42,682 - Set cooldown for group -1001370164075 for 3600 seconds (until 2025-10-04 22:20:12.682005)
+2025-10-04 21:19:42,717 - Error forwarding to group -1001435629989: RPCError 403: CHAT_SEND_PHOTOS_FORBIDDEN (caused by ForwardMessagesRequest)
+2025-10-04 21:19:42,717 - Saved cooldowns for 11 groups
+2025-10-04 21:19:42,717 - Set cooldown for group -1001435629989 for 3600 seconds (until 2025-10-04 22:20:26.717894)
+2025-10-04 21:19:42,760 - Error forwarding to group -1001619295591: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-10-04 21:19:42,760 - Saved cooldowns for 12 groups
+2025-10-04 21:19:42,760 - Set cooldown for group -1001619295591 for 3600 seconds (until 2025-10-04 22:19:52.760145)
+2025-10-04 21:19:42,806 - Error forwarding to group -1001823750940: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:42,806 - Saved cooldowns for 13 groups
+2025-10-04 21:19:42,806 - Set cooldown for group -1001823750940 for 3600 seconds (until 2025-10-04 22:19:56.806540)
+2025-10-04 21:19:43,070 - Message successfully forwarded to group -1001826408075
+2025-10-04 21:19:43,070 - Saved cooldowns for 14 groups
+2025-10-04 21:19:43,070 - Set cooldown for group -1001826408075 for 60 seconds (until 2025-10-04 21:20:56.070816)
+2025-10-04 21:19:44,108 - Error forwarding to group -1001879229631: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:44,124 - Saved cooldowns for 15 groups
+2025-10-04 21:19:44,124 - Set cooldown for group -1001879229631 for 3600 seconds (until 2025-10-04 22:20:10.108633)
+2025-10-04 21:19:44,390 - Message successfully forwarded to group -1002008055762
+2025-10-04 21:19:44,390 - Saved cooldowns for 16 groups
+2025-10-04 21:19:44,390 - Set cooldown for group -1002008055762 for 60 seconds (until 2025-10-04 21:21:13.390600)
+2025-10-04 21:19:45,444 - Error forwarding to group -1002024956205: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,444 - Saved cooldowns for 17 groups
+2025-10-04 21:19:45,444 - Set cooldown for group -1002024956205 for 3600 seconds (until 2025-10-04 22:20:05.444906)
+2025-10-04 21:19:45,470 - Error forwarding to group -1002037581701: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,480 - Saved cooldowns for 18 groups
+2025-10-04 21:19:45,480 - Set cooldown for group -1002037581701 for 3600 seconds (until 2025-10-04 22:20:33.480391)
+2025-10-04 21:19:45,509 - Error forwarding to group -1002040195353: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,509 - Saved cooldowns for 19 groups
+2025-10-04 21:19:45,509 - Set cooldown for group -1002040195353 for 3600 seconds (until 2025-10-04 22:20:03.509840)
+2025-10-04 21:19:45,545 - Error forwarding to group -1002044976617: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,545 - Saved cooldowns for 20 groups
+2025-10-04 21:19:45,545 - Set cooldown for group -1002044976617 for 3600 seconds (until 2025-10-04 22:20:42.545095)
+2025-10-04 21:19:45,571 - Error forwarding to group -1002061755851: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,571 - Saved cooldowns for 21 groups
+2025-10-04 21:19:45,571 - Set cooldown for group -1002061755851 for 3600 seconds (until 2025-10-04 22:20:30.571754)
+2025-10-04 21:19:45,592 - Error forwarding to group -1002079698240: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,607 - Saved cooldowns for 22 groups
+2025-10-04 21:19:45,607 - Set cooldown for group -1002079698240 for 3600 seconds (until 2025-10-04 22:20:41.607903)
+2025-10-04 21:19:45,652 - Error forwarding to group -1002143458709: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,653 - Saved cooldowns for 23 groups
+2025-10-04 21:19:45,654 - Set cooldown for group -1002143458709 for 3600 seconds (until 2025-10-04 22:20:16.653308)
+2025-10-04 21:19:45,690 - Error forwarding to group -1002145643932: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,693 - Saved cooldowns for 24 groups
+2025-10-04 21:19:45,693 - Set cooldown for group -1002145643932 for 3600 seconds (until 2025-10-04 22:20:05.693004)
+2025-10-04 21:19:45,727 - Error forwarding to group -1002177242649: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,727 - Saved cooldowns for 25 groups
+2025-10-04 21:19:45,727 - Set cooldown for group -1002177242649 for 3600 seconds (until 2025-10-04 22:19:56.727578)
+2025-10-04 21:19:45,769 - Error forwarding to group -1002219838044: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,769 - Saved cooldowns for 26 groups
+2025-10-04 21:19:45,769 - Set cooldown for group -1002219838044 for 3600 seconds (until 2025-10-04 22:20:33.769441)
+2025-10-04 21:19:45,810 - Error forwarding to group -1002312783580: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,810 - Saved cooldowns for 27 groups
+2025-10-04 21:19:45,810 - Set cooldown for group -1002312783580 for 3600 seconds (until 2025-10-04 22:19:59.810947)
+2025-10-04 21:19:45,852 - Error forwarding to group -1002384073971: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,858 - Saved cooldowns for 28 groups
+2025-10-04 21:19:45,864 - Set cooldown for group -1002384073971 for 3600 seconds (until 2025-10-04 22:20:34.856614)
+2025-10-04 21:19:45,900 - Error forwarding to group -1001185847591: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,902 - Saved cooldowns for 29 groups
+2025-10-04 21:19:45,905 - Set cooldown for group -1001185847591 for 3600 seconds (until 2025-10-04 22:20:00.900408)
+2025-10-04 21:19:45,925 - Error forwarding to group -1001180605382: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by ForwardMessagesRequest)
+2025-10-04 21:19:45,925 - Saved cooldowns for 30 groups
+2025-10-04 21:19:45,925 - Set cooldown for group -1001180605382 for 3600 seconds (until 2025-10-04 22:20:01.925669)
+2025-10-04 21:19:45,925 - Saved 0 messages to storage
+2025-10-04 21:19:45,925 - Message 3589 removed from queue after successful forwards

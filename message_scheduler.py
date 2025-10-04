@@ -19,13 +19,13 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Konfigurasi API
-API_ID = '28785825'
-API_HASH = 'e5026ae707857c60dc16b5856a5a69d1'
+API_ID = '23160015'
+API_HASH = 'da5381e2677dae2f19c16313094b7d75'
 SESSION_NAME = 'message_scheduler'
 
 # Konfigurasi pengguna dan grup
-ALLOWED_USER_ID = 7339106883
-ALLOWED_USERNAME = "digiprosb_cs"  
+ALLOWED_USER_ID = 6480660112
+ALLOWED_USERNAME = "CsIPS"  
 TARGET_GROUPS = [
     -1001074420898,
     -1001092684469,
