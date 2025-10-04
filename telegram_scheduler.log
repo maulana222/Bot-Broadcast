@@ -1,0 +1,1187 @@
+2025-05-15 03:58:11,155 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-15 03:58:11,173 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-15 03:58:11,345 - Client telah terhubung
+2025-05-15 04:02:09,654 - Saved 1 messages to storage
+2025-05-15 04:02:09,655 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 04:02:14,303 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:02:56,397 - Loaded 1 messages from storage
+2025-05-15 04:02:56,398 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-15 04:02:56,417 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-15 04:02:56,586 - Client telah terhubung
+2025-05-15 04:03:01,785 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:03:06,647 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:03:06,728 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:03:06,730 - Saved 0 messages to storage
+2025-05-15 04:03:06,731 - Pesan dengan ID 30442 dihapus dari antrian
+2025-05-15 04:04:54,361 - Saved 1 messages to storage
+2025-05-15 04:04:54,362 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 04:04:56,910 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:04:56,982 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:04:56,984 - Saved 0 messages to storage
+2025-05-15 04:04:56,984 - Pesan dengan ID 30450 dihapus dari antrian
+2025-05-15 04:05:14,533 - Saved 1 messages to storage
+2025-05-15 04:05:14,534 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 04:05:17,021 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:05:17,087 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:05:17,089 - Saved 0 messages to storage
+2025-05-15 04:05:17,089 - Pesan dengan ID 30453 dihapus dari antrian
+2025-05-15 04:05:19,963 - Saved 1 messages to storage
+2025-05-15 04:05:19,964 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 04:05:22,096 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:05:22,163 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:05:22,164 - Saved 0 messages to storage
+2025-05-15 04:05:22,164 - Pesan dengan ID 30456 dihapus dari antrian
+2025-05-15 04:05:39,806 - Loaded 0 messages from storage
+2025-05-15 04:05:39,807 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-15 04:05:39,825 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-15 04:05:39,992 - Client telah terhubung
+2025-05-15 04:05:51,502 - Saved 1 messages to storage
+2025-05-15 04:05:51,503 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 04:05:54,982 - Saved 2 messages to storage
+2025-05-15 04:05:54,983 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 2
+2025-05-15 04:05:58,257 - Saved 3 messages to storage
+2025-05-15 04:05:58,258 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 3
+2025-05-15 04:06:00,400 - Saved 4 messages to storage
+2025-05-15 04:06:00,401 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 4
+2025-05-15 04:06:02,356 - Saved 5 messages to storage
+2025-05-15 04:06:02,357 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 5
+2025-05-15 04:06:05,245 - Saved 6 messages to storage
+2025-05-15 04:06:05,245 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 6
+2025-05-15 04:06:05,691 - Saved 7 messages to storage
+2025-05-15 04:06:05,692 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 7
+2025-05-15 04:06:05,940 - Saved 8 messages to storage
+2025-05-15 04:06:05,941 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 8
+2025-05-15 04:06:06,088 - Saved 9 messages to storage
+2025-05-15 04:06:06,089 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 9
+2025-05-15 04:06:06,240 - Saved 10 messages to storage
+2025-05-15 04:06:06,240 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 10
+2025-05-15 04:06:06,405 - Saved 11 messages to storage
+2025-05-15 04:06:06,406 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 11
+2025-05-15 04:06:06,572 - Saved 12 messages to storage
+2025-05-15 04:06:06,573 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 12
+2025-05-15 04:06:06,720 - Saved 13 messages to storage
+2025-05-15 04:06:06,721 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 13
+2025-05-15 04:06:06,875 - Saved 14 messages to storage
+2025-05-15 04:06:06,875 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 14
+2025-05-15 04:06:07,045 - Saved 15 messages to storage
+2025-05-15 04:06:07,046 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 15
+2025-05-15 04:06:07,162 - Saved 16 messages to storage
+2025-05-15 04:06:07,162 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 16
+2025-05-15 04:06:07,324 - Saved 17 messages to storage
+2025-05-15 04:06:07,325 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 17
+2025-05-15 04:06:07,432 - Saved 18 messages to storage
+2025-05-15 04:06:07,433 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 18
+2025-05-15 04:06:07,546 - Saved 19 messages to storage
+2025-05-15 04:06:07,546 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 19
+2025-05-15 04:06:07,988 - Saved 20 messages to storage
+2025-05-15 04:06:07,989 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 20
+2025-05-15 04:06:08,054 - Saved 21 messages to storage
+2025-05-15 04:06:08,055 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 21
+2025-05-15 04:06:08,158 - Saved 22 messages to storage
+2025-05-15 04:06:08,159 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 22
+2025-05-15 04:06:08,325 - Saved 23 messages to storage
+2025-05-15 04:06:08,325 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 23
+2025-05-15 04:06:08,474 - Saved 24 messages to storage
+2025-05-15 04:06:08,475 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 24
+2025-05-15 04:06:08,561 - Saved 25 messages to storage
+2025-05-15 04:06:08,562 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 25
+2025-05-15 04:06:08,692 - Saved 26 messages to storage
+2025-05-15 04:06:08,693 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 26
+2025-05-15 04:06:08,764 - Saved 27 messages to storage
+2025-05-15 04:06:08,765 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 27
+2025-05-15 04:06:08,943 - Saved 28 messages to storage
+2025-05-15 04:06:08,943 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 28
+2025-05-15 04:06:09,049 - Saved 29 messages to storage
+2025-05-15 04:06:09,050 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 29
+2025-05-15 04:11:08,127 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:11:10,115 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:11:10,225 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:11:10,226 - Saved 28 messages to storage
+2025-05-15 04:11:10,227 - Pesan dengan ID 30460 dihapus dari antrian
+2025-05-15 04:11:40,242 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:11:40,319 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:11:40,320 - Saved 27 messages to storage
+2025-05-15 04:11:40,320 - Pesan dengan ID 30462 dihapus dari antrian
+2025-05-15 04:12:10,341 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:12:10,415 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:12:10,417 - Saved 26 messages to storage
+2025-05-15 04:12:10,418 - Pesan dengan ID 30464 dihapus dari antrian
+2025-05-15 04:12:40,423 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:12:40,556 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:12:40,559 - Saved 25 messages to storage
+2025-05-15 04:12:40,559 - Pesan dengan ID 30466 dihapus dari antrian
+2025-05-15 04:13:10,566 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:13:10,641 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:13:10,642 - Saved 24 messages to storage
+2025-05-15 04:13:10,642 - Pesan dengan ID 30468 dihapus dari antrian
+2025-05-15 04:13:40,654 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:13:40,734 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:13:40,736 - Saved 23 messages to storage
+2025-05-15 04:13:40,736 - Pesan dengan ID 30470 dihapus dari antrian
+2025-05-15 04:14:10,739 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:14:10,808 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:14:10,810 - Saved 22 messages to storage
+2025-05-15 04:14:10,811 - Pesan dengan ID 30472 dihapus dari antrian
+2025-05-15 04:14:40,821 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:14:40,902 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:14:40,903 - Saved 21 messages to storage
+2025-05-15 04:14:40,904 - Pesan dengan ID 30474 dihapus dari antrian
+2025-05-15 04:15:10,919 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:15:11,026 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:15:11,027 - Saved 20 messages to storage
+2025-05-15 04:15:11,028 - Pesan dengan ID 30476 dihapus dari antrian
+2025-05-15 04:15:41,044 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:15:41,119 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:15:41,120 - Saved 19 messages to storage
+2025-05-15 04:15:41,120 - Pesan dengan ID 30478 dihapus dari antrian
+2025-05-15 04:16:11,126 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:16:11,198 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:16:11,200 - Saved 18 messages to storage
+2025-05-15 04:16:11,200 - Pesan dengan ID 30480 dihapus dari antrian
+2025-05-15 04:16:41,214 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:16:41,299 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:16:41,300 - Saved 17 messages to storage
+2025-05-15 04:16:41,300 - Pesan dengan ID 30482 dihapus dari antrian
+2025-05-15 04:17:11,301 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:17:11,378 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:17:11,379 - Saved 16 messages to storage
+2025-05-15 04:17:11,379 - Pesan dengan ID 30484 dihapus dari antrian
+2025-05-15 04:17:41,393 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:17:41,474 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:17:41,475 - Saved 15 messages to storage
+2025-05-15 04:17:41,476 - Pesan dengan ID 30486 dihapus dari antrian
+2025-05-15 04:18:11,488 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:18:11,586 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:18:11,587 - Saved 14 messages to storage
+2025-05-15 04:18:11,588 - Pesan dengan ID 30488 dihapus dari antrian
+2025-05-15 04:18:41,591 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:18:41,671 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:18:41,672 - Saved 13 messages to storage
+2025-05-15 04:18:41,672 - Pesan dengan ID 30490 dihapus dari antrian
+2025-05-15 04:19:11,674 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:19:11,752 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:19:11,754 - Saved 12 messages to storage
+2025-05-15 04:19:11,754 - Pesan dengan ID 30492 dihapus dari antrian
+2025-05-15 04:19:41,770 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:19:41,842 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:19:41,843 - Saved 11 messages to storage
+2025-05-15 04:19:41,843 - Pesan dengan ID 30494 dihapus dari antrian
+2025-05-15 04:19:57,959 - Saved 0 messages to storage
+2025-05-15 04:19:57,960 - 🗑️ Antrian pesan dibersihkan
+2025-05-15 04:20:37,211 - Loaded 0 messages from storage
+2025-05-15 04:20:37,212 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-15 04:20:37,230 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-15 04:20:37,405 - Client telah terhubung
+2025-05-15 04:20:45,484 - Saved 1 messages to storage
+2025-05-15 04:20:45,485 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 04:21:03,881 - Saved 0 messages to storage
+2025-05-15 04:21:03,882 - 🗑️ Antrian pesan dibersihkan
+2025-05-15 04:21:10,243 - Saved 1 messages to storage
+2025-05-15 04:21:10,243 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 04:21:20,518 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:21:37,465 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:21:37,546 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:21:37,723 - Pesan berhasil diforward ke grup -1002266041278
+2025-05-15 04:21:37,725 - Saved 0 messages to storage
+2025-05-15 04:21:37,725 - Pesan dengan ID 30546 dihapus dari antrian
+2025-05-15 04:22:42,872 - Got difference for account updates
+2025-05-15 04:23:48,933 - Saved 1 messages to storage
+2025-05-15 04:23:48,934 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 04:24:07,742 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:24:07,799 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:24:07,841 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:24:37,843 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:24:37,870 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:24:37,895 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:24:50,132 - Saved 2 messages to storage
+2025-05-15 04:24:50,133 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 2
+2025-05-15 04:25:07,911 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:25:07,939 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:25:07,982 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:25:37,991 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:25:38,018 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:25:38,044 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:26:08,049 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:26:08,077 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:26:08,105 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:26:38,116 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:26:38,145 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:26:38,172 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:27:08,189 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:27:08,220 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:27:08,248 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:27:38,254 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:27:38,284 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:27:38,319 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:28:08,328 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:28:08,357 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:28:08,390 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:28:38,397 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:28:38,426 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:28:38,452 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:29:08,468 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:29:08,494 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:29:08,519 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:29:38,532 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:29:38,558 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:29:38,584 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:30:08,596 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:30:08,623 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:30:08,654 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:30:34,615 - Saved 3 messages to storage
+2025-05-15 04:30:34,616 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 3
+2025-05-15 04:30:38,663 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:30:38,690 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:30:38,715 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:31:08,725 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:31:08,751 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:31:08,777 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:31:20,471 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:31:38,789 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:31:38,815 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:31:38,845 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:32:08,850 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:32:08,885 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:32:08,917 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:32:38,925 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:32:38,952 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:32:38,981 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:33:08,995 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:33:09,035 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:33:09,060 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:33:39,065 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:33:39,141 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:33:39,205 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:34:09,211 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:34:09,237 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:34:09,262 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:34:37,511 - Saved 4 messages to storage
+2025-05-15 04:34:37,511 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 4
+2025-05-15 04:34:39,274 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:34:39,341 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:34:39,375 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:34:45,100 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:35:09,376 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:35:09,403 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:35:09,428 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:35:39,440 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:35:39,466 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:35:39,491 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:35:43,121 - Saved 5 messages to storage
+2025-05-15 04:35:43,122 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 5
+2025-05-15 04:35:50,140 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:36:09,498 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:36:09,527 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:36:09,552 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:36:39,558 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:36:39,592 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:36:39,615 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:36:43,452 - Loaded 5 messages from storage
+2025-05-15 04:36:43,453 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-15 04:36:43,471 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-15 04:36:43,698 - Client telah terhubung
+2025-05-15 04:36:51,334 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:37:13,602 - Saved 6 messages to storage
+2025-05-15 04:37:13,602 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 6
+2025-05-15 04:37:13,760 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:37:13,783 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:37:13,808 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:37:18,870 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:37:43,809 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:37:43,835 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:37:43,859 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:38:13,863 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:38:13,888 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:38:13,913 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:38:43,928 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:38:43,955 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:38:43,977 - Pesan dengan ID 93699 tidak ditemukan
+2025-05-15 04:39:13,184 - Loaded 6 messages from storage
+2025-05-15 04:39:13,184 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-15 04:39:13,206 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-15 04:39:13,509 - Client telah terhubung
+2025-05-15 04:39:22,644 - Error saving messages: Object of type Message is not JSON serializable
+2025-05-15 04:39:22,645 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 7
+2025-05-15 04:39:28,260 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:39:43,589 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:39:43,596 - Error dalam proses penjadwalan: 'chat_id'
+2025-05-15 04:40:43,603 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:40:43,604 - Error dalam proses penjadwalan: 'chat_id'
+2025-05-15 04:41:43,617 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:41:43,619 - Error dalam proses penjadwalan: 'chat_id'
+2025-05-15 04:42:22,473 - Error loading messages: Expecting value: line 1 column 10057 (char 10056)
+2025-05-15 04:42:22,473 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-15 04:42:22,490 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-15 04:42:22,659 - Client telah terhubung
+2025-05-15 04:42:46,296 - Error loading messages: Expecting value: line 1 column 10057 (char 10056)
+2025-05-15 04:42:46,297 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-15 04:42:46,314 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-15 04:42:46,479 - Client telah terhubung
+2025-05-15 04:43:05,027 - Error loading messages: Expecting value: line 1 column 10057 (char 10056)
+2025-05-15 04:43:05,027 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-15 04:43:05,045 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-15 04:43:05,221 - Client telah terhubung
+2025-05-15 04:43:27,540 - Saved 0 messages to storage
+2025-05-15 04:43:27,541 - 🗑️ Antrian pesan dibersihkan
+2025-05-15 04:43:45,177 - Saved 1 messages to storage
+2025-05-15 04:43:45,177 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 04:43:57,208 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:44:05,283 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:44:05,410 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:44:05,760 - Pesan berhasil diforward ke grup -1002266041278
+2025-05-15 04:44:05,761 - Saved 0 messages to storage
+2025-05-15 04:44:05,761 - Pesan dengan ID 30587 dihapus dari antrian
+2025-05-15 04:45:48,388 - Saved 1 messages to storage
+2025-05-15 04:45:48,389 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 04:45:51,095 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:46:05,793 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:46:05,895 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:46:06,362 - Pesan berhasil diforward ke grup -1002266041278
+2025-05-15 04:46:06,364 - Saved 0 messages to storage
+2025-05-15 04:46:06,365 - Pesan dengan ID 30594 dihapus dari antrian
+2025-05-15 04:46:34,874 - Saved 1 messages to storage
+2025-05-15 04:46:34,875 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 04:46:36,374 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:46:36,498 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:46:36,778 - Pesan berhasil diforward ke grup -1002266041278
+2025-05-15 04:46:36,781 - Saved 0 messages to storage
+2025-05-15 04:46:36,782 - Pesan dengan ID 30599 dihapus dari antrian
+2025-05-15 04:46:51,699 - Saved 1 messages to storage
+2025-05-15 04:46:51,700 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 04:46:59,675 - ✅ Penjadwalan diaktifkan
+2025-05-15 04:47:06,784 - Memulai proses forward pesan terjadwal...
+2025-05-15 04:47:06,912 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 04:47:07,294 - Pesan berhasil diforward ke grup -1002266041278
+2025-05-15 04:47:07,296 - Saved 0 messages to storage
+2025-05-15 04:47:07,297 - Pesan dengan ID 30602 dihapus dari antrian
+2025-05-15 21:44:30,600 - Loaded 0 messages from storage
+2025-05-15 21:44:30,605 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-15 21:44:30,628 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-15 21:45:16,513 - Client telah terhubung
+2025-05-15 21:45:46,719 - ✅ Penjadwalan diaktifkan
+2025-05-15 21:45:49,370 - ✅ Penjadwalan diaktifkan
+2025-05-15 21:45:50,098 - ✅ Penjadwalan diaktifkan
+2025-05-15 21:46:16,121 - Saved 1 messages to storage
+2025-05-15 21:46:16,122 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-15 21:46:16,597 - Memulai proses forward pesan terjadwal...
+2025-05-15 21:46:16,719 - Pesan berhasil diforward ke grup -4707137960
+2025-05-15 21:46:16,806 - Error saat memforward pesan ke grup -1002266041278: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-05-15 21:46:16,812 - Saved 0 messages to storage
+2025-05-15 21:46:16,815 - Pesan dengan ID 30848 dihapus dari antrian
+2025-05-15 21:46:23,890 - ✅ Penjadwalan diaktifkan
+2025-05-15 21:51:01,343 - Got difference for channel 2235346096 updates
+2025-05-15 22:02:47,997 - Got difference for channel 1048910279 updates
+2025-05-15 22:57:37,724 - Got difference for channel 1108308377 updates
+2025-05-15 23:27:37,941 - Got difference for channel 1108308377 updates
+2025-05-15 23:42:37,714 - Got difference for channel 1087100147 updates
+2025-05-16 02:20:51,710 - Loaded 0 messages from storage
+2025-05-16 02:20:51,717 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 02:20:51,742 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-16 02:20:52,238 - Client telah terhubung
+2025-05-16 02:21:26,173 - Got difference for account updates
+2025-05-16 02:21:36,623 - Got difference for account updates
+2025-05-16 02:22:09,063 - Cannot get difference since the account is not logged in: AuthKeyUnregisteredError
+2025-05-16 02:22:09,065 - Disconnecting from 91.108.56.123:443/TcpFull...
+2025-05-16 02:22:09,067 - Disconnection from 91.108.56.123:443/TcpFull complete!
+2025-05-16 02:22:09,236 - Not disconnecting (already have no connection)
+2025-05-16 02:22:25,184 - Loaded 0 messages from storage
+2025-05-16 02:22:25,188 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 02:22:25,212 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-16 03:59:33,520 - Loaded 0 messages from storage
+2025-05-16 03:59:33,527 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 03:59:33,550 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-16 04:04:29,690 - Telegram is having internal issues AuthRestartError: Restart the authorization process (caused by SendCodeRequest)
+2025-05-16 04:07:05,929 - Client telah terhubung
+2025-05-16 04:07:05,970 - Tidak dapat mengirim pesan ke pemilik: An invalid Peer was used. Make sure to pass the right peer type and that the value is valid (for instance, bots cannot start conversations) (caused by SendMessageRequest)
+2025-05-16 04:07:21,600 - Loaded 0 messages from storage
+2025-05-16 04:07:21,605 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 04:07:21,632 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-16 04:07:22,021 - Client telah terhubung
+2025-05-16 04:07:22,057 - Tidak dapat mengirim pesan ke pemilik: An invalid Peer was used. Make sure to pass the right peer type and that the value is valid (for instance, bots cannot start conversations) (caused by SendMessageRequest)
+2025-05-16 04:07:47,699 - Loaded 0 messages from storage
+2025-05-16 04:07:47,704 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 04:07:47,727 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-16 04:07:48,121 - Client telah terhubung
+2025-05-16 04:07:48,156 - Tidak dapat mengirim pesan ke pemilik: An invalid Peer was used. Make sure to pass the right peer type and that the value is valid (for instance, bots cannot start conversations) (caused by SendMessageRequest)
+2025-05-16 04:20:42,105 - Loaded 0 messages from storage
+2025-05-16 04:20:42,111 - Connecting to 149.154.167.51:443/TcpFull...
+2025-05-16 04:20:46,014 - Connection to 149.154.167.51:443/TcpFull complete!
+2025-05-16 04:21:11,355 - Phone migrated to 5
+2025-05-16 04:21:11,555 - Reconnecting to new data center 5
+2025-05-16 04:21:11,880 - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-05-16 04:21:11,883 - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-05-16 04:21:11,885 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 04:21:14,510 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-16 04:21:59,075 - Loaded 0 messages from storage
+2025-05-16 04:21:59,080 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 04:21:59,104 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-16 05:06:12,205 - Loaded 0 messages from storage
+2025-05-16 05:06:12,210 - Connecting to 149.154.167.51:443/TcpFull...
+2025-05-16 05:06:14,982 - Connection to 149.154.167.51:443/TcpFull complete!
+2025-05-16 05:08:32,425 - Loaded 0 messages from storage
+2025-05-16 05:08:32,430 - Connecting to 149.154.167.51:443/TcpFull...
+2025-05-16 05:08:32,605 - Connection to 149.154.167.51:443/TcpFull complete!
+2025-05-16 05:08:44,763 - Phone migrated to 5
+2025-05-16 05:08:44,945 - Reconnecting to new data center 5
+2025-05-16 05:08:45,267 - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-05-16 05:08:45,270 - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-05-16 05:08:45,272 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 05:08:47,865 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-16 05:09:05,292 - Client telah terhubung
+2025-05-16 05:09:05,321 - Tidak dapat mengirim pesan ke pemilik: Could not find the input entity for PeerUser(user_id=7339106883) (PeerUser). Please read https://docs.telethon.dev/en/stable/concepts/entities.html to find out more details.
+2025-05-16 05:11:17,659 - Loaded 0 messages from storage
+2025-05-16 05:11:17,664 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 05:11:17,750 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-16 05:11:18,148 - Client telah terhubung
+2025-05-16 05:11:18,178 - Tidak dapat mengirim pesan ke pemilik: Could not find the input entity for PeerUser(user_id=7510424073) (PeerUser). Please read https://docs.telethon.dev/en/stable/concepts/entities.html to find out more details.
+2025-05-16 05:13:57,140 - Got difference for channel 1180605382 updates
+2025-05-16 05:16:02,474 - Got difference for channel 1180605382 updates
+2025-05-16 05:19:12,744 - Got difference for channel 1180605382 updates
+2025-05-16 05:20:12,586 - Got difference for channel 1180605382 updates
+2025-05-16 05:21:04,465 - Got difference for channel 1180605382 updates
+2025-05-16 05:26:32,266 - Got difference for channel 1180605382 updates
+2025-05-16 05:30:08,030 - Got difference for channel 1180605382 updates
+2025-05-16 05:30:55,634 - Got difference for account updates
+2025-05-16 05:32:05,960 - Got difference for channel 1180605382 updates
+2025-05-16 05:32:15,349 - Got difference for account updates
+2025-05-16 05:33:03,336 - Got difference for channel 1180605382 updates
+2025-05-16 05:38:29,469 - Got difference for account updates
+2025-05-16 05:38:29,512 - Got difference for channel 1108308377 updates
+2025-05-16 05:40:11,065 - Got difference for channel 1180605382 updates
+2025-05-16 05:45:32,764 - Got difference for channel 1180605382 updates
+2025-05-16 05:50:29,504 - Got difference for channel 1180605382 updates
+2025-05-16 05:53:34,873 - Got difference for account updates
+2025-05-16 05:58:38,261 - Got difference for channel 1180605382 updates
+2025-05-16 06:03:35,524 - Got difference for channel 1180605382 updates
+2025-05-16 06:06:34,549 - Server closed the connection: [Errno 103] Software caused connection abort
+2025-05-16 06:06:34,551 - Connection closed while receiving data: [Errno 103] Software caused connection abort
+2025-05-16 06:06:34,552 - Closing current connection to begin reconnect...
+2025-05-16 06:06:34,553 - <class 'ConnectionAbortedError'> during disconnect: [Errno 103] Software caused connection abort
+2025-05-16 06:06:34,554 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 06:06:34,558 - Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:35,563 - Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:36,567 - Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:37,572 - Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:38,578 - Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:39,583 - Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:40,587 - Failed reconnection attempt 1 with ConnectionError
+2025-05-16 06:06:41,591 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 06:06:41,594 - Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:42,600 - Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:43,607 - Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:44,614 - Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:45,620 - Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:46,626 - Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:47,630 - Failed reconnection attempt 2 with ConnectionError
+2025-05-16 06:06:48,633 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 06:06:48,637 - Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:49,643 - Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:50,650 - Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:51,656 - Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:52,663 - Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:53,669 - Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:54,672 - Failed reconnection attempt 3 with ConnectionError
+2025-05-16 06:06:55,675 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 06:06:55,679 - Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:56,686 - Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:57,692 - Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:58,699 - Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:06:59,705 - Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:07:00,711 - Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:07:01,714 - Failed reconnection attempt 4 with ConnectionError
+2025-05-16 06:07:02,718 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 06:07:02,721 - Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:07:03,728 - Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:07:04,734 - Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:07:05,741 - Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:07:06,747 - Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:07:07,753 - Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-16 06:07:08,757 - Failed reconnection attempt 5 with ConnectionError
+2025-05-16 06:07:09,758 - Automatic reconnection failed 5 time(s)
+2025-05-16 06:07:09,759 - Disconnecting from 91.108.56.123:443/TcpFull...
+2025-05-16 06:07:09,760 - Disconnection from 91.108.56.123:443/TcpFull complete!
+2025-05-16 06:07:09,761 - Not disconnecting (already have no connection)
+2025-05-16 06:47:33,958 - Loaded 0 messages from storage
+2025-05-16 06:47:33,960 - Connecting to 149.154.167.51:443/TcpFull...
+2025-05-16 06:47:36,903 - Connection to 149.154.167.51:443/TcpFull complete!
+2025-05-16 06:48:41,028 - Phone migrated to 5
+2025-05-16 06:48:41,218 - Reconnecting to new data center 5
+2025-05-16 06:48:41,533 - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-05-16 06:48:41,535 - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-05-16 06:48:41,537 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-16 06:48:44,137 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-16 06:48:58,715 - Client telah terhubung
+2025-05-16 06:48:58,763 - Successfully connected to user: digiprosb_cs
+2025-05-16 06:48:58,766 - Event handlers have been set up successfully
+2025-05-16 06:48:58,860 - Pesan startup berhasil dikirim
+2025-05-16 07:03:40,348 - Got difference for channel 1180605382 updates
+2025-05-16 07:08:17,121 - Got difference for account updates
+2025-05-16 07:13:38,369 - Got difference for channel 1180605382 updates
+2025-05-16 07:13:52,420 - Saved 1 messages to storage
+2025-05-16 07:13:52,421 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-16 07:21:04,593 - Got difference for channel 1180605382 updates
+2025-05-16 07:21:28,952 - Got difference for channel 1180605382 updates
+2025-05-16 07:23:43,004 - Got difference for channel 1180605382 updates
+2025-05-16 07:25:53,037 - Got difference for channel 1180605382 updates
+2025-05-16 07:26:15,119 - Saved 2 messages to storage
+2025-05-16 07:26:15,119 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 2
+2025-05-16 07:27:10,428 - Saved 3 messages to storage
+2025-05-16 07:27:10,429 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 3
+2025-05-16 07:27:15,905 - Got difference for channel 1180605382 updates
+2025-05-16 07:27:35,297 - ✅ Penjadwalan diaktifkan
+2025-05-16 07:27:37,712 - Starting scheduled message forwarding process...
+2025-05-16 07:27:37,753 - Successfully connected to user: digiprosb_cs
+2025-05-16 07:27:37,792 - Message with ID 31052 not found, removing from queue
+2025-05-16 07:27:37,799 - Saved 2 messages to storage
+2025-05-16 07:27:37,800 - Starting scheduled message forwarding process...
+2025-05-16 07:27:37,836 - Successfully connected to user: digiprosb_cs
+2025-05-16 07:27:38,005 - Message successfully forwarded to group -1001074420898
+2025-05-16 07:27:38,028 - Saved cooldowns for 1 groups
+2025-05-16 07:27:38,028 - Set cooldown for group -1001074420898 for 60 seconds (until 2025-05-16 07:29:37.006062)
+2025-05-16 07:27:39,138 - Message successfully forwarded to group -1001092684469
+2025-05-16 07:27:39,145 - Saved cooldowns for 2 groups
+2025-05-16 07:27:39,146 - Set cooldown for group -1001092684469 for 60 seconds (until 2025-05-16 07:29:39.139543)
+2025-05-16 07:27:40,258 - Message successfully forwarded to group -1001103018847
+2025-05-16 07:27:40,264 - Saved cooldowns for 3 groups
+2025-05-16 07:27:40,265 - Set cooldown for group -1001103018847 for 60 seconds (until 2025-05-16 07:29:29.258960)
+2025-05-16 07:27:41,392 - Message successfully forwarded to group -1001165415900
+2025-05-16 07:27:41,396 - Saved cooldowns for 4 groups
+2025-05-16 07:27:41,397 - Set cooldown for group -1001165415900 for 60 seconds (until 2025-05-16 07:29:11.392636)
+2025-05-16 07:27:42,507 - Message successfully forwarded to group -1001169191009
+2025-05-16 07:27:42,510 - Saved cooldowns for 5 groups
+2025-05-16 07:27:42,511 - Set cooldown for group -1001169191009 for 60 seconds (until 2025-05-16 07:29:31.507718)
+2025-05-16 07:27:43,654 - Message successfully forwarded to group -1001171926447
+2025-05-16 07:27:43,701 - Saved cooldowns for 6 groups
+2025-05-16 07:27:43,702 - Set cooldown for group -1001171926447 for 60 seconds (until 2025-05-16 07:29:41.655644)
+2025-05-16 07:27:44,830 - Message successfully forwarded to group -1001173604751
+2025-05-16 07:27:44,835 - Saved cooldowns for 7 groups
+2025-05-16 07:27:44,836 - Set cooldown for group -1001173604751 for 60 seconds (until 2025-05-16 07:29:06.831469)
+2025-05-16 07:27:46,022 - Message successfully forwarded to group -1001345824902
+2025-05-16 07:27:46,027 - Saved cooldowns for 8 groups
+2025-05-16 07:27:46,028 - Set cooldown for group -1001345824902 for 60 seconds (until 2025-05-16 07:29:25.023188)
+2025-05-16 07:27:47,144 - Message successfully forwarded to group -1001350748176
+2025-05-16 07:27:47,151 - Saved cooldowns for 9 groups
+2025-05-16 07:27:47,152 - Set cooldown for group -1001350748176 for 60 seconds (until 2025-05-16 07:28:59.145498)
+2025-05-16 07:27:48,264 - Message successfully forwarded to group -1001370164075
+2025-05-16 07:27:48,271 - Saved cooldowns for 10 groups
+2025-05-16 07:27:48,271 - Set cooldown for group -1001370164075 for 60 seconds (until 2025-05-16 07:29:09.265102)
+2025-05-16 07:27:49,379 - Message successfully forwarded to group -1001435629989
+2025-05-16 07:27:49,385 - Saved cooldowns for 11 groups
+2025-05-16 07:27:49,386 - Set cooldown for group -1001435629989 for 60 seconds (until 2025-05-16 07:29:44.380486)
+2025-05-16 07:27:50,482 - Message successfully forwarded to group -1001619295591
+2025-05-16 07:27:50,488 - Saved cooldowns for 12 groups
+2025-05-16 07:27:50,489 - Set cooldown for group -1001619295591 for 60 seconds (until 2025-05-16 07:29:29.483285)
+2025-05-16 07:27:51,595 - Message successfully forwarded to group -1001823750940
+2025-05-16 07:27:51,601 - Saved cooldowns for 13 groups
+2025-05-16 07:27:51,601 - Set cooldown for group -1001823750940 for 60 seconds (until 2025-05-16 07:29:22.596567)
+2025-05-16 07:27:52,732 - Message successfully forwarded to group -1001826408075
+2025-05-16 07:27:52,736 - Saved cooldowns for 14 groups
+2025-05-16 07:27:52,737 - Set cooldown for group -1001826408075 for 60 seconds (until 2025-05-16 07:29:27.732682)
+2025-05-16 07:27:53,904 - Message successfully forwarded to group -1001879229631
+2025-05-16 07:27:53,908 - Saved cooldowns for 15 groups
+2025-05-16 07:27:53,909 - Set cooldown for group -1001879229631 for 60 seconds (until 2025-05-16 07:29:41.904743)
+2025-05-16 07:27:55,133 - Message successfully forwarded to group -1002008055762
+2025-05-16 07:27:55,138 - Saved cooldowns for 16 groups
+2025-05-16 07:27:55,139 - Set cooldown for group -1002008055762 for 60 seconds (until 2025-05-16 07:29:08.134543)
+2025-05-16 07:27:56,291 - Message successfully forwarded to group -1002024956205
+2025-05-16 07:27:56,295 - Saved cooldowns for 17 groups
+2025-05-16 07:27:56,296 - Set cooldown for group -1002024956205 for 60 seconds (until 2025-05-16 07:29:12.291864)
+2025-05-16 07:27:57,642 - Message successfully forwarded to group -1002037581701
+2025-05-16 07:27:57,648 - Saved cooldowns for 18 groups
+2025-05-16 07:27:57,649 - Set cooldown for group -1002037581701 for 60 seconds (until 2025-05-16 07:29:11.643241)
+2025-05-16 07:27:58,812 - Message successfully forwarded to group -1002040195353
+2025-05-16 07:27:58,817 - Saved cooldowns for 19 groups
+2025-05-16 07:27:58,818 - Set cooldown for group -1002040195353 for 60 seconds (until 2025-05-16 07:29:11.812632)
+2025-05-16 07:27:59,979 - Message successfully forwarded to group -1002044976617
+2025-05-16 07:27:59,984 - Saved cooldowns for 20 groups
+2025-05-16 07:27:59,984 - Set cooldown for group -1002044976617 for 60 seconds (until 2025-05-16 07:29:34.980506)
+2025-05-16 07:28:01,096 - Message successfully forwarded to group -1002061755851
+2025-05-16 07:28:01,102 - Saved cooldowns for 21 groups
+2025-05-16 07:28:01,103 - Set cooldown for group -1002061755851 for 60 seconds (until 2025-05-16 07:29:14.096821)
+2025-05-16 07:28:02,247 - Message successfully forwarded to group -1002079698240
+2025-05-16 07:28:02,253 - Saved cooldowns for 22 groups
+2025-05-16 07:28:02,254 - Set cooldown for group -1002079698240 for 60 seconds (until 2025-05-16 07:29:46.248472)
+2025-05-16 07:28:03,385 - Message successfully forwarded to group -1002143458709
+2025-05-16 07:28:03,390 - Saved cooldowns for 23 groups
+2025-05-16 07:28:03,391 - Set cooldown for group -1002143458709 for 60 seconds (until 2025-05-16 07:30:01.385766)
+2025-05-16 07:28:04,575 - Message successfully forwarded to group -1002145643932
+2025-05-16 07:28:04,581 - Saved cooldowns for 24 groups
+2025-05-16 07:28:04,582 - Set cooldown for group -1002145643932 for 60 seconds (until 2025-05-16 07:29:33.576488)
+2025-05-16 07:28:05,767 - Message successfully forwarded to group -1002177242649
+2025-05-16 07:28:05,772 - Saved cooldowns for 25 groups
+2025-05-16 07:28:05,773 - Set cooldown for group -1002177242649 for 60 seconds (until 2025-05-16 07:30:01.768063)
+2025-05-16 07:28:06,951 - Message successfully forwarded to group -1002219838044
+2025-05-16 07:28:06,957 - Saved cooldowns for 26 groups
+2025-05-16 07:28:06,959 - Set cooldown for group -1002219838044 for 60 seconds (until 2025-05-16 07:29:58.952515)
+2025-05-16 07:28:08,058 - Message successfully forwarded to group -1002312783580
+2025-05-16 07:28:08,063 - Saved cooldowns for 27 groups
+2025-05-16 07:28:08,063 - Set cooldown for group -1002312783580 for 60 seconds (until 2025-05-16 07:29:53.059295)
+2025-05-16 07:28:09,201 - Message successfully forwarded to group -1002384073971
+2025-05-16 07:28:09,206 - Saved cooldowns for 28 groups
+2025-05-16 07:28:09,207 - Set cooldown for group -1002384073971 for 60 seconds (until 2025-05-16 07:29:37.201645)
+2025-05-16 07:28:10,308 - Message successfully forwarded to group -1001185847591
+2025-05-16 07:28:10,313 - Saved cooldowns for 29 groups
+2025-05-16 07:28:10,314 - Set cooldown for group -1001185847591 for 60 seconds (until 2025-05-16 07:29:32.309273)
+2025-05-16 07:28:11,440 - Message successfully forwarded to group -1001180605382
+2025-05-16 07:28:11,446 - Saved cooldowns for 30 groups
+2025-05-16 07:28:11,447 - Set cooldown for group -1001180605382 for 60 seconds (until 2025-05-16 07:29:58.441033)
+2025-05-16 07:28:12,455 - Saved 1 messages to storage
+2025-05-16 07:28:12,456 - Message 31054 removed from queue after successful forwards
+2025-05-16 07:28:17,458 - Starting scheduled message forwarding process...
+2025-05-16 07:28:17,492 - Successfully connected to user: digiprosb_cs
+2025-05-16 07:28:17,537 - Group -1001074420898 is in cooldown for 79 more seconds
+2025-05-16 07:28:17,538 - Skipping group -1001074420898, in cooldown for 79 seconds
+2025-05-16 07:28:17,539 - Group -1001092684469 is in cooldown for 81 more seconds
+2025-05-16 07:28:17,539 - Skipping group -1001092684469, in cooldown for 81 seconds
+2025-05-16 07:28:17,540 - Group -1001103018847 is in cooldown for 71 more seconds
+2025-05-16 07:28:17,540 - Skipping group -1001103018847, in cooldown for 71 seconds
+2025-05-16 07:28:17,541 - Group -1001165415900 is in cooldown for 53 more seconds
+2025-05-16 07:28:17,541 - Skipping group -1001165415900, in cooldown for 53 seconds
+2025-05-16 07:28:17,541 - Group -1001169191009 is in cooldown for 73 more seconds
+2025-05-16 07:28:17,542 - Skipping group -1001169191009, in cooldown for 73 seconds
+2025-05-16 07:28:17,542 - Group -1001171926447 is in cooldown for 84 more seconds
+2025-05-16 07:28:17,543 - Skipping group -1001171926447, in cooldown for 84 seconds
+2025-05-16 07:28:17,543 - Group -1001173604751 is in cooldown for 49 more seconds
+2025-05-16 07:28:17,544 - Skipping group -1001173604751, in cooldown for 49 seconds
+2025-05-16 07:28:17,544 - Group -1001345824902 is in cooldown for 67 more seconds
+2025-05-16 07:28:17,544 - Skipping group -1001345824902, in cooldown for 67 seconds
+2025-05-16 07:28:17,545 - Group -1001350748176 is in cooldown for 41 more seconds
+2025-05-16 07:28:17,545 - Skipping group -1001350748176, in cooldown for 41 seconds
+2025-05-16 07:28:17,545 - Group -1001370164075 is in cooldown for 51 more seconds
+2025-05-16 07:28:17,546 - Skipping group -1001370164075, in cooldown for 51 seconds
+2025-05-16 07:28:17,546 - Group -1001435629989 is in cooldown for 86 more seconds
+2025-05-16 07:28:17,546 - Skipping group -1001435629989, in cooldown for 86 seconds
+2025-05-16 07:28:17,547 - Group -1001619295591 is in cooldown for 71 more seconds
+2025-05-16 07:28:17,547 - Skipping group -1001619295591, in cooldown for 71 seconds
+2025-05-16 07:28:17,548 - Group -1001823750940 is in cooldown for 65 more seconds
+2025-05-16 07:28:17,548 - Skipping group -1001823750940, in cooldown for 65 seconds
+2025-05-16 07:28:17,549 - Group -1001826408075 is in cooldown for 70 more seconds
+2025-05-16 07:28:17,549 - Skipping group -1001826408075, in cooldown for 70 seconds
+2025-05-16 07:28:17,549 - Group -1001879229631 is in cooldown for 84 more seconds
+2025-05-16 07:28:17,550 - Skipping group -1001879229631, in cooldown for 84 seconds
+2025-05-16 07:28:17,551 - Group -1002008055762 is in cooldown for 50 more seconds
+2025-05-16 07:28:17,551 - Skipping group -1002008055762, in cooldown for 50 seconds
+2025-05-16 07:28:17,552 - Group -1002024956205 is in cooldown for 54 more seconds
+2025-05-16 07:28:17,552 - Skipping group -1002024956205, in cooldown for 54 seconds
+2025-05-16 07:28:17,553 - Group -1002037581701 is in cooldown for 54 more seconds
+2025-05-16 07:28:17,553 - Skipping group -1002037581701, in cooldown for 54 seconds
+2025-05-16 07:28:17,554 - Group -1002040195353 is in cooldown for 54 more seconds
+2025-05-16 07:28:17,554 - Skipping group -1002040195353, in cooldown for 54 seconds
+2025-05-16 07:28:17,555 - Group -1002044976617 is in cooldown for 77 more seconds
+2025-05-16 07:28:17,555 - Skipping group -1002044976617, in cooldown for 77 seconds
+2025-05-16 07:28:17,556 - Group -1002061755851 is in cooldown for 56 more seconds
+2025-05-16 07:28:17,556 - Skipping group -1002061755851, in cooldown for 56 seconds
+2025-05-16 07:28:17,557 - Group -1002079698240 is in cooldown for 88 more seconds
+2025-05-16 07:28:17,557 - Skipping group -1002079698240, in cooldown for 88 seconds
+2025-05-16 07:28:17,558 - Group -1002143458709 is in cooldown for 103 more seconds
+2025-05-16 07:28:17,558 - Skipping group -1002143458709, in cooldown for 103 seconds
+2025-05-16 07:28:17,559 - Group -1002145643932 is in cooldown for 76 more seconds
+2025-05-16 07:28:17,559 - Skipping group -1002145643932, in cooldown for 76 seconds
+2025-05-16 07:28:17,560 - Group -1002177242649 is in cooldown for 104 more seconds
+2025-05-16 07:28:17,560 - Skipping group -1002177242649, in cooldown for 104 seconds
+2025-05-16 07:28:17,560 - Group -1002219838044 is in cooldown for 101 more seconds
+2025-05-16 07:28:17,561 - Skipping group -1002219838044, in cooldown for 101 seconds
+2025-05-16 07:28:17,561 - Group -1002312783580 is in cooldown for 95 more seconds
+2025-05-16 07:28:17,562 - Skipping group -1002312783580, in cooldown for 95 seconds
+2025-05-16 07:28:17,562 - Group -1002384073971 is in cooldown for 79 more seconds
+2025-05-16 07:28:17,562 - Skipping group -1002384073971, in cooldown for 79 seconds
+2025-05-16 07:28:17,563 - Group -1001185847591 is in cooldown for 74 more seconds
+2025-05-16 07:28:17,563 - Skipping group -1001185847591, in cooldown for 74 seconds
+2025-05-16 07:28:17,563 - Group -1001180605382 is in cooldown for 100 more seconds
+2025-05-16 07:28:17,564 - Skipping group -1001180605382, in cooldown for 100 seconds
+2025-05-16 07:28:17,564 - All groups are in cooldown, will try again later
+2025-05-16 07:28:31,978 - Got difference for account updates
+2025-05-16 07:28:47,572 - Starting scheduled message forwarding process...
+2025-05-16 07:28:47,633 - Successfully connected to user: digiprosb_cs
+2025-05-16 07:28:47,679 - Group -1001074420898 is in cooldown for 49 more seconds
+2025-05-16 07:28:47,680 - Skipping group -1001074420898, in cooldown for 49 seconds
+2025-05-16 07:28:47,680 - Group -1001092684469 is in cooldown for 51 more seconds
+2025-05-16 07:28:47,681 - Skipping group -1001092684469, in cooldown for 51 seconds
+2025-05-16 07:28:47,681 - Group -1001103018847 is in cooldown for 41 more seconds
+2025-05-16 07:28:47,681 - Skipping group -1001103018847, in cooldown for 41 seconds
+2025-05-16 07:28:47,682 - Group -1001165415900 is in cooldown for 23 more seconds
+2025-05-16 07:28:47,682 - Skipping group -1001165415900, in cooldown for 23 seconds
+2025-05-16 07:28:47,683 - Group -1001169191009 is in cooldown for 43 more seconds
+2025-05-16 07:28:47,683 - Skipping group -1001169191009, in cooldown for 43 seconds
+2025-05-16 07:28:47,683 - Group -1001171926447 is in cooldown for 53 more seconds
+2025-05-16 07:28:47,684 - Skipping group -1001171926447, in cooldown for 53 seconds
+2025-05-16 07:28:47,684 - Group -1001173604751 is in cooldown for 19 more seconds
+2025-05-16 07:28:47,684 - Skipping group -1001173604751, in cooldown for 19 seconds
+2025-05-16 07:28:47,685 - Group -1001345824902 is in cooldown for 37 more seconds
+2025-05-16 07:28:47,685 - Skipping group -1001345824902, in cooldown for 37 seconds
+2025-05-16 07:28:47,685 - Group -1001350748176 is in cooldown for 11 more seconds
+2025-05-16 07:28:47,686 - Skipping group -1001350748176, in cooldown for 11 seconds
+2025-05-16 07:28:47,686 - Group -1001370164075 is in cooldown for 21 more seconds
+2025-05-16 07:28:47,687 - Skipping group -1001370164075, in cooldown for 21 seconds
+2025-05-16 07:28:47,687 - Group -1001435629989 is in cooldown for 56 more seconds
+2025-05-16 07:28:47,687 - Skipping group -1001435629989, in cooldown for 56 seconds
+2025-05-16 07:28:47,688 - Group -1001619295591 is in cooldown for 41 more seconds
+2025-05-16 07:28:47,688 - Skipping group -1001619295591, in cooldown for 41 seconds
+2025-05-16 07:28:47,688 - Group -1001823750940 is in cooldown for 34 more seconds
+2025-05-16 07:28:47,689 - Skipping group -1001823750940, in cooldown for 34 seconds
+2025-05-16 07:28:47,689 - Group -1001826408075 is in cooldown for 40 more seconds
+2025-05-16 07:28:47,690 - Skipping group -1001826408075, in cooldown for 40 seconds
+2025-05-16 07:28:47,690 - Group -1001879229631 is in cooldown for 54 more seconds
+2025-05-16 07:28:47,690 - Skipping group -1001879229631, in cooldown for 54 seconds
+2025-05-16 07:28:47,691 - Group -1002008055762 is in cooldown for 20 more seconds
+2025-05-16 07:28:47,691 - Skipping group -1002008055762, in cooldown for 20 seconds
+2025-05-16 07:28:47,692 - Group -1002024956205 is in cooldown for 24 more seconds
+2025-05-16 07:28:47,692 - Skipping group -1002024956205, in cooldown for 24 seconds
+2025-05-16 07:28:47,692 - Group -1002037581701 is in cooldown for 23 more seconds
+2025-05-16 07:28:47,693 - Skipping group -1002037581701, in cooldown for 23 seconds
+2025-05-16 07:28:47,693 - Group -1002040195353 is in cooldown for 24 more seconds
+2025-05-16 07:28:47,693 - Skipping group -1002040195353, in cooldown for 24 seconds
+2025-05-16 07:28:47,694 - Group -1002044976617 is in cooldown for 47 more seconds
+2025-05-16 07:28:47,694 - Skipping group -1002044976617, in cooldown for 47 seconds
+2025-05-16 07:28:47,695 - Group -1002061755851 is in cooldown for 26 more seconds
+2025-05-16 07:28:47,695 - Skipping group -1002061755851, in cooldown for 26 seconds
+2025-05-16 07:28:47,695 - Group -1002079698240 is in cooldown for 58 more seconds
+2025-05-16 07:28:47,696 - Skipping group -1002079698240, in cooldown for 58 seconds
+2025-05-16 07:28:47,696 - Group -1002143458709 is in cooldown for 73 more seconds
+2025-05-16 07:28:47,696 - Skipping group -1002143458709, in cooldown for 73 seconds
+2025-05-16 07:28:47,697 - Group -1002145643932 is in cooldown for 45 more seconds
+2025-05-16 07:28:47,697 - Skipping group -1002145643932, in cooldown for 45 seconds
+2025-05-16 07:28:47,697 - Group -1002177242649 is in cooldown for 74 more seconds
+2025-05-16 07:28:47,698 - Skipping group -1002177242649, in cooldown for 74 seconds
+2025-05-16 07:28:47,698 - Group -1002219838044 is in cooldown for 71 more seconds
+2025-05-16 07:28:47,699 - Skipping group -1002219838044, in cooldown for 71 seconds
+2025-05-16 07:28:47,699 - Group -1002312783580 is in cooldown for 65 more seconds
+2025-05-16 07:28:47,699 - Skipping group -1002312783580, in cooldown for 65 seconds
+2025-05-16 07:28:47,700 - Group -1002384073971 is in cooldown for 49 more seconds
+2025-05-16 07:28:47,700 - Skipping group -1002384073971, in cooldown for 49 seconds
+2025-05-16 07:28:47,700 - Group -1001185847591 is in cooldown for 44 more seconds
+2025-05-16 07:28:47,701 - Skipping group -1001185847591, in cooldown for 44 seconds
+2025-05-16 07:28:47,701 - Group -1001180605382 is in cooldown for 70 more seconds
+2025-05-16 07:28:47,701 - Skipping group -1001180605382, in cooldown for 70 seconds
+2025-05-16 07:28:47,702 - All groups are in cooldown, will try again later
+2025-05-16 07:29:17,708 - Starting scheduled message forwarding process...
+2025-05-16 07:29:17,741 - Successfully connected to user: digiprosb_cs
+2025-05-16 07:29:17,786 - Group -1001074420898 is in cooldown for 19 more seconds
+2025-05-16 07:29:17,787 - Skipping group -1001074420898, in cooldown for 19 seconds
+2025-05-16 07:29:17,787 - Group -1001092684469 is in cooldown for 21 more seconds
+2025-05-16 07:29:17,788 - Skipping group -1001092684469, in cooldown for 21 seconds
+2025-05-16 07:29:17,788 - Group -1001103018847 is in cooldown for 11 more seconds
+2025-05-16 07:29:17,788 - Skipping group -1001103018847, in cooldown for 11 seconds
+2025-05-16 07:29:17,795 - Saved cooldowns for 29 groups
+2025-05-16 07:29:17,796 - Group -1001169191009 is in cooldown for 13 more seconds
+2025-05-16 07:29:17,796 - Skipping group -1001169191009, in cooldown for 13 seconds
+2025-05-16 07:29:17,797 - Group -1001171926447 is in cooldown for 23 more seconds
+2025-05-16 07:29:17,797 - Skipping group -1001171926447, in cooldown for 23 seconds
+2025-05-16 07:29:17,801 - Saved cooldowns for 28 groups
+2025-05-16 07:29:17,802 - Group -1001345824902 is in cooldown for 7 more seconds
+2025-05-16 07:29:17,803 - Skipping group -1001345824902, in cooldown for 7 seconds
+2025-05-16 07:29:17,807 - Saved cooldowns for 27 groups
+2025-05-16 07:29:17,812 - Saved cooldowns for 26 groups
+2025-05-16 07:29:17,813 - Group -1001435629989 is in cooldown for 26 more seconds
+2025-05-16 07:29:17,813 - Skipping group -1001435629989, in cooldown for 26 seconds
+2025-05-16 07:29:17,814 - Group -1001619295591 is in cooldown for 11 more seconds
+2025-05-16 07:29:17,814 - Skipping group -1001619295591, in cooldown for 11 seconds
+2025-05-16 07:29:17,814 - Group -1001823750940 is in cooldown for 4 more seconds
+2025-05-16 07:29:17,815 - Skipping group -1001823750940, in cooldown for 4 seconds
+2025-05-16 07:29:17,815 - Group -1001826408075 is in cooldown for 9 more seconds
+2025-05-16 07:29:17,815 - Skipping group -1001826408075, in cooldown for 9 seconds
+2025-05-16 07:29:17,816 - Group -1001879229631 is in cooldown for 24 more seconds
+2025-05-16 07:29:17,816 - Skipping group -1001879229631, in cooldown for 24 seconds
+2025-05-16 07:29:17,820 - Saved cooldowns for 25 groups
+2025-05-16 07:29:17,825 - Saved cooldowns for 24 groups
+2025-05-16 07:29:17,830 - Saved cooldowns for 23 groups
+2025-05-16 07:29:17,835 - Saved cooldowns for 22 groups
+2025-05-16 07:29:17,835 - Group -1002044976617 is in cooldown for 17 more seconds
+2025-05-16 07:29:17,836 - Skipping group -1002044976617, in cooldown for 17 seconds
+2025-05-16 07:29:17,840 - Saved cooldowns for 21 groups
+2025-05-16 07:29:17,841 - Group -1002079698240 is in cooldown for 28 more seconds
+2025-05-16 07:29:17,841 - Skipping group -1002079698240, in cooldown for 28 seconds
+2025-05-16 07:29:17,842 - Group -1002143458709 is in cooldown for 43 more seconds
+2025-05-16 07:29:17,842 - Skipping group -1002143458709, in cooldown for 43 seconds
+2025-05-16 07:29:17,842 - Group -1002145643932 is in cooldown for 15 more seconds
+2025-05-16 07:29:17,843 - Skipping group -1002145643932, in cooldown for 15 seconds
+2025-05-16 07:29:17,843 - Group -1002177242649 is in cooldown for 43 more seconds
+2025-05-16 07:29:17,844 - Skipping group -1002177242649, in cooldown for 43 seconds
+2025-05-16 07:29:17,844 - Group -1002219838044 is in cooldown for 41 more seconds
+2025-05-16 07:29:17,844 - Skipping group -1002219838044, in cooldown for 41 seconds
+2025-05-16 07:29:17,845 - Group -1002312783580 is in cooldown for 35 more seconds
+2025-05-16 07:29:17,845 - Skipping group -1002312783580, in cooldown for 35 seconds
+2025-05-16 07:29:17,845 - Group -1002384073971 is in cooldown for 19 more seconds
+2025-05-16 07:29:17,846 - Skipping group -1002384073971, in cooldown for 19 seconds
+2025-05-16 07:29:17,846 - Group -1001185847591 is in cooldown for 14 more seconds
+2025-05-16 07:29:17,847 - Skipping group -1001185847591, in cooldown for 14 seconds
+2025-05-16 07:29:17,847 - Group -1001180605382 is in cooldown for 40 more seconds
+2025-05-16 07:29:17,847 - Skipping group -1001180605382, in cooldown for 40 seconds
+2025-05-16 07:29:17,969 - Message successfully forwarded to group -1001165415900
+2025-05-16 07:29:17,973 - Saved cooldowns for 22 groups
+2025-05-16 07:29:17,974 - Set cooldown for group -1001165415900 for 60 seconds (until 2025-05-16 07:31:02.969989)
+2025-05-16 07:29:19,017 - Error forwarding to group -1001173604751: RPCError 403: CHAT_SEND_WEBPAGE_FORBIDDEN (caused by ForwardMessagesRequest)
+2025-05-16 07:29:19,023 - Saved cooldowns for 23 groups
+2025-05-16 07:29:19,024 - Set cooldown for group -1001173604751 for 3600 seconds (until 2025-05-16 08:30:01.018482)
+2025-05-16 07:29:19,145 - Message successfully forwarded to group -1001350748176
+2025-05-16 07:29:19,150 - Saved cooldowns for 24 groups
+2025-05-16 07:29:19,151 - Set cooldown for group -1001350748176 for 60 seconds (until 2025-05-16 07:30:45.145859)
+2025-05-16 07:29:20,292 - Message successfully forwarded to group -1001370164075
+2025-05-16 07:29:20,297 - Saved cooldowns for 25 groups
+2025-05-16 07:29:20,298 - Set cooldown for group -1001370164075 for 60 seconds (until 2025-05-16 07:30:46.293515)
+2025-05-16 07:29:21,336 - Error forwarding to group -1002008055762: A wait of 3514 seconds is required before sending another message in this chat (caused by ForwardMessagesRequest)
+2025-05-16 07:29:21,342 - Saved cooldowns for 26 groups
+2025-05-16 07:29:21,343 - Set cooldown for group -1002008055762 for 3574 seconds (until 2025-05-16 08:29:29.338415)
+2025-05-16 07:29:21,376 - Error forwarding to group -1002024956205: A wait of 215 seconds is required before sending another message in this chat (caused by ForwardMessagesRequest)
+2025-05-16 07:29:21,383 - Saved cooldowns for 27 groups
+2025-05-16 07:29:21,383 - Set cooldown for group -1002024956205 for 275 seconds (until 2025-05-16 07:34:17.377005)
+2025-05-16 07:29:21,419 - Error forwarding to group -1002037581701: RPCError 403: CHAT_SEND_WEBPAGE_FORBIDDEN (caused by ForwardMessagesRequest)
+2025-05-16 07:29:21,425 - Saved cooldowns for 28 groups
+2025-05-16 07:29:21,426 - Set cooldown for group -1002037581701 for 3600 seconds (until 2025-05-16 08:29:58.420266)
+2025-05-16 07:29:21,667 - Message successfully forwarded to group -1002040195353
+2025-05-16 07:29:21,673 - Saved cooldowns for 29 groups
+2025-05-16 07:29:21,674 - Set cooldown for group -1002040195353 for 60 seconds (until 2025-05-16 07:31:13.667897)
+2025-05-16 07:29:22,807 - Message successfully forwarded to group -1002061755851
+2025-05-16 07:29:22,813 - Saved cooldowns for 30 groups
+2025-05-16 07:29:22,814 - Set cooldown for group -1002061755851 for 60 seconds (until 2025-05-16 07:30:47.808348)
+2025-05-16 07:29:23,822 - Saved 0 messages to storage
+2025-05-16 07:29:23,822 - Message 31056 removed from queue after successful forwards
+2025-05-16 07:30:07,314 - Got difference for channel 1180605382 updates
+2025-05-16 07:31:45,743 - Got difference for channel 1180605382 updates
+2025-05-16 07:37:29,537 - Saved 1 messages to storage
+2025-05-16 07:37:29,538 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-16 07:37:34,146 - Starting scheduled message forwarding process...
+2025-05-16 07:37:34,300 - Successfully connected to user: digiprosb_cs
+2025-05-16 07:37:34,359 - Message with ID 31060 not found, removing from queue
+2025-05-16 07:37:34,364 - Saved 0 messages to storage
+2025-05-16 07:37:38,749 - Got difference for channel 1180605382 updates
+2025-05-18 01:29:50,552 - Loaded 0 messages from storage
+2025-05-18 01:29:50,558 - Loaded cooldowns for 30 groups
+2025-05-18 01:29:50,562 - Saved cooldowns for 0 groups
+2025-05-18 01:29:50,563 - Removed 30 expired cooldowns
+2025-05-18 01:29:50,565 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-18 01:29:50,604 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-18 01:30:21,494 - Client telah terhubung
+2025-05-18 01:30:21,557 - Successfully connected to user: digiprosb_cs
+2025-05-18 01:30:21,561 - Event handlers have been set up successfully
+2025-05-18 01:30:21,678 - Pesan startup berhasil dikirim
+2025-05-18 01:30:29,853 - Saved 1 messages to storage
+2025-05-18 01:30:29,854 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-18 01:30:53,697 - Saved 2 messages to storage
+2025-05-18 01:30:53,698 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 2
+2025-05-18 01:32:09,473 - Got difference for channel 1180605382 updates
+2025-05-18 01:32:12,791 - ✅ Penjadwalan diaktifkan
+2025-05-18 01:32:16,745 - Starting scheduled message forwarding process...
+2025-05-18 01:32:16,805 - Successfully connected to user: digiprosb_cs
+2025-05-18 01:32:16,856 - Message with ID 31548 not found, removing from queue
+2025-05-18 01:32:16,861 - Saved 1 messages to storage
+2025-05-18 01:32:16,861 - Starting scheduled message forwarding process...
+2025-05-18 01:32:16,916 - Successfully connected to user: digiprosb_cs
+2025-05-18 01:32:17,227 - Message successfully forwarded to group -1001074420898
+2025-05-18 01:32:17,232 - Saved cooldowns for 1 groups
+2025-05-18 01:32:17,233 - Set cooldown for group -1001074420898 for 60 seconds (until 2025-05-18 01:33:29.229030)
+2025-05-18 01:32:18,397 - Message successfully forwarded to group -1001092684469
+2025-05-18 01:32:18,402 - Saved cooldowns for 2 groups
+2025-05-18 01:32:18,403 - Set cooldown for group -1001092684469 for 60 seconds (until 2025-05-18 01:33:45.398336)
+2025-05-18 01:32:19,587 - Message successfully forwarded to group -1001103018847
+2025-05-18 01:32:19,591 - Saved cooldowns for 3 groups
+2025-05-18 01:32:19,592 - Set cooldown for group -1001103018847 for 60 seconds (until 2025-05-18 01:33:45.587677)
+2025-05-18 01:32:20,756 - Message successfully forwarded to group -1001165415900
+2025-05-18 01:32:20,760 - Saved cooldowns for 4 groups
+2025-05-18 01:32:20,761 - Set cooldown for group -1001165415900 for 60 seconds (until 2025-05-18 01:33:51.757161)
+2025-05-18 01:32:21,839 - Error forwarding to group -1001169191009: RPCError 403: CHAT_SEND_WEBPAGE_FORBIDDEN (caused by ForwardMessagesRequest)
+2025-05-18 01:32:21,844 - Saved cooldowns for 5 groups
+2025-05-18 01:32:21,845 - Set cooldown for group -1001169191009 for 3600 seconds (until 2025-05-18 02:33:04.839725)
+2025-05-18 01:32:22,032 - Message successfully forwarded to group -1001171926447
+2025-05-18 01:32:22,036 - Saved cooldowns for 6 groups
+2025-05-18 01:32:22,037 - Set cooldown for group -1001171926447 for 60 seconds (until 2025-05-18 01:33:55.032826)
+2025-05-18 01:32:23,202 - Error forwarding to group -1001173604751: RPCError 403: CHAT_SEND_WEBPAGE_FORBIDDEN (caused by ForwardMessagesRequest)
+2025-05-18 01:32:23,206 - Saved cooldowns for 7 groups
+2025-05-18 01:32:23,207 - Set cooldown for group -1001173604751 for 3600 seconds (until 2025-05-18 02:32:56.202892)
+2025-05-18 01:32:23,315 - Error forwarding to group -1001345824902: RPCError 403: CHAT_SEND_WEBPAGE_FORBIDDEN (caused by ForwardMessagesRequest)
+2025-05-18 01:32:23,320 - Saved cooldowns for 8 groups
+2025-05-18 01:32:23,320 - Set cooldown for group -1001345824902 for 3600 seconds (until 2025-05-18 02:32:55.316354)
+2025-05-18 01:32:23,538 - Message successfully forwarded to group -1001350748176
+2025-05-18 01:32:23,546 - Saved cooldowns for 9 groups
+2025-05-18 01:32:23,547 - Set cooldown for group -1001350748176 for 60 seconds (until 2025-05-18 01:33:50.539361)
+2025-05-18 01:32:24,807 - Message successfully forwarded to group -1001370164075
+2025-05-18 01:32:24,812 - Saved cooldowns for 10 groups
+2025-05-18 01:32:24,813 - Set cooldown for group -1001370164075 for 60 seconds (until 2025-05-18 01:33:47.808362)
+2025-05-18 01:32:25,874 - Error forwarding to group -1001435629989: RPCError 403: CHAT_SEND_WEBPAGE_FORBIDDEN (caused by ForwardMessagesRequest)
+2025-05-18 01:32:25,878 - Saved cooldowns for 11 groups
+2025-05-18 01:32:25,879 - Set cooldown for group -1001435629989 for 3600 seconds (until 2025-05-18 02:32:41.874903)
+2025-05-18 01:32:25,933 - Error forwarding to group -1001619295591: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-05-18 01:32:25,938 - Saved cooldowns for 12 groups
+2025-05-18 01:32:25,938 - Set cooldown for group -1001619295591 for 3600 seconds (until 2025-05-18 02:32:54.934618)
+2025-05-18 01:32:26,106 - Message successfully forwarded to group -1001823750940
+2025-05-18 01:32:26,110 - Saved cooldowns for 13 groups
+2025-05-18 01:32:26,111 - Set cooldown for group -1001823750940 for 60 seconds (until 2025-05-18 01:33:56.106772)
+2025-05-18 01:32:27,178 - Error forwarding to group -1001826408075: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-05-18 01:32:27,183 - Saved cooldowns for 14 groups
+2025-05-18 01:32:27,184 - Set cooldown for group -1001826408075 for 3600 seconds (until 2025-05-18 02:33:12.178933)
+2025-05-18 01:32:27,432 - ❌ Penjadwalan dinonaktifkan
+2025-05-18 01:32:27,659 - Message successfully forwarded to group -1001879229631
+2025-05-18 01:32:27,664 - Saved cooldowns for 15 groups
+2025-05-18 01:32:27,665 - Set cooldown for group -1001879229631 for 60 seconds (until 2025-05-18 01:33:55.660153)
+2025-05-18 01:32:28,723 - Error forwarding to group -1002008055762: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-05-18 01:32:28,729 - Saved cooldowns for 16 groups
+2025-05-18 01:32:28,729 - Set cooldown for group -1002008055762 for 3600 seconds (until 2025-05-18 02:32:46.724192)
+2025-05-18 01:32:28,787 - Error forwarding to group -1002024956205: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-05-18 01:32:28,792 - Saved cooldowns for 17 groups
+2025-05-18 01:32:28,793 - Set cooldown for group -1002024956205 for 3600 seconds (until 2025-05-18 02:32:46.787958)
+2025-05-18 01:32:28,859 - Error forwarding to group -1002037581701: RPCError 403: CHAT_SEND_WEBPAGE_FORBIDDEN (caused by ForwardMessagesRequest)
+2025-05-18 01:32:28,864 - Saved cooldowns for 18 groups
+2025-05-18 01:32:28,864 - Set cooldown for group -1002037581701 for 3600 seconds (until 2025-05-18 02:33:22.859648)
+2025-05-18 01:32:28,929 - Error forwarding to group -1002040195353: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-05-18 01:32:28,934 - Saved cooldowns for 19 groups
+2025-05-18 01:32:28,934 - Set cooldown for group -1002040195353 for 3600 seconds (until 2025-05-18 02:33:17.929942)
+2025-05-18 01:32:28,992 - Error forwarding to group -1002044976617: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-05-18 01:32:28,997 - Saved cooldowns for 20 groups
+2025-05-18 01:32:28,998 - Set cooldown for group -1002044976617 for 3600 seconds (until 2025-05-18 02:32:45.993425)
+2025-05-18 01:32:29,156 - Message successfully forwarded to group -1002061755851
+2025-05-18 01:32:29,162 - Saved cooldowns for 21 groups
+2025-05-18 01:32:29,162 - Set cooldown for group -1002061755851 for 60 seconds (until 2025-05-18 01:33:42.157570)
+2025-05-18 01:32:30,223 - Error forwarding to group -1002079698240: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-05-18 01:32:30,230 - Saved cooldowns for 22 groups
+2025-05-18 01:32:30,231 - Set cooldown for group -1002079698240 for 3600 seconds (until 2025-05-18 02:33:25.223978)
+2025-05-18 01:32:30,286 - Error forwarding to group -1002143458709: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-05-18 01:32:30,291 - Saved cooldowns for 23 groups
+2025-05-18 01:32:30,292 - Set cooldown for group -1002143458709 for 3600 seconds (until 2025-05-18 02:33:06.287323)
+2025-05-18 01:32:30,351 - Error forwarding to group -1002145643932: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-05-18 01:32:30,356 - Saved cooldowns for 24 groups
+2025-05-18 01:32:30,357 - Set cooldown for group -1002145643932 for 3600 seconds (until 2025-05-18 02:33:20.352166)
+2025-05-18 01:32:30,413 - Error forwarding to group -1002177242649: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-05-18 01:32:30,418 - Saved cooldowns for 25 groups
+2025-05-18 01:32:30,419 - Set cooldown for group -1002177242649 for 3600 seconds (until 2025-05-18 02:32:54.414057)
+2025-05-18 01:32:30,787 - Message successfully forwarded to group -1002219838044
+2025-05-18 01:32:30,791 - Saved cooldowns for 26 groups
+2025-05-18 01:32:30,791 - Set cooldown for group -1002219838044 for 60 seconds (until 2025-05-18 01:34:19.787567)
+2025-05-18 01:32:31,965 - Message successfully forwarded to group -1002312783580
+2025-05-18 01:32:31,970 - Saved cooldowns for 27 groups
+2025-05-18 01:32:31,971 - Set cooldown for group -1002312783580 for 60 seconds (until 2025-05-18 01:33:46.966522)
+2025-05-18 01:32:33,029 - Error forwarding to group -1002384073971: You can't write in this chat (caused by ForwardMessagesRequest)
+2025-05-18 01:32:33,035 - Saved cooldowns for 28 groups
+2025-05-18 01:32:33,035 - Set cooldown for group -1002384073971 for 3600 seconds (until 2025-05-18 02:33:19.030479)
+2025-05-18 01:32:33,215 - Message successfully forwarded to group -1001185847591
+2025-05-18 01:32:33,220 - Saved cooldowns for 29 groups
+2025-05-18 01:32:33,221 - Set cooldown for group -1001185847591 for 60 seconds (until 2025-05-18 01:34:31.216187)
+2025-05-18 01:32:34,609 - Message successfully forwarded to group -1001180605382
+2025-05-18 01:32:34,614 - Saved cooldowns for 30 groups
+2025-05-18 01:32:34,615 - Set cooldown for group -1001180605382 for 60 seconds (until 2025-05-18 01:34:03.610194)
+2025-05-18 01:32:35,627 - Saved 0 messages to storage
+2025-05-18 01:32:35,628 - Message 31550 removed from queue after successful forwards
+2025-05-18 01:42:08,839 - Got difference for channel 1180605382 updates
+2025-05-18 01:45:32,889 - Got difference for channel 2580913278 updates
+2025-05-18 01:48:56,029 - Loaded 0 messages from storage
+2025-05-18 01:48:56,035 - Loaded cooldowns for 30 groups
+2025-05-18 01:48:56,039 - Saved cooldowns for 16 groups
+2025-05-18 01:48:56,039 - Removed 14 expired cooldowns
+2025-05-18 01:48:56,041 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-18 01:48:56,084 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-18 01:48:56,625 - Client telah terhubung
+2025-05-18 01:48:56,671 - Successfully connected to user: digiprosb_cs
+2025-05-18 01:48:56,674 - Event handlers have been set up successfully
+2025-05-18 01:48:56,819 - Pesan startup berhasil dikirim
+2025-05-18 01:50:05,657 - Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<MessageScheduler.forward_messages() done, defined at /storage/emulated/0/bot/message_scheduler.py:316> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "/storage/emulated/0/bot/message_scheduler.py", line 447, in <module>
+    else:
+  File "/data/data/com.termux/files/usr/lib/python3.12/asyncio/base_events.py", line 678, in run_until_complete
+    self.run_forever()
+  File "/data/data/com.termux/files/usr/lib/python3.12/asyncio/base_events.py", line 645, in run_forever
+    self._run_once()
+  File "/data/data/com.termux/files/usr/lib/python3.12/asyncio/base_events.py", line 1999, in _run_once
+    handle._run()
+  File "/data/data/com.termux/files/usr/lib/python3.12/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/storage/emulated/0/bot/message_scheduler.py", line 318, in forward_messages
+KeyboardInterrupt
+2025-05-18 01:50:10,126 - Loaded 0 messages from storage
+2025-05-18 01:50:10,131 - Loaded cooldowns for 16 groups
+2025-05-18 01:50:10,133 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-18 01:50:10,177 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-18 01:50:10,962 - Client telah terhubung
+2025-05-18 01:50:11,116 - Successfully connected to user: digiprosb_cs
+2025-05-18 01:50:11,119 - Event handlers have been set up successfully
+2025-05-18 01:50:11,290 - Pesan startup berhasil dikirim
+2025-05-18 02:02:08,479 - Server closed the connection: [Errno 103] Software caused connection abort
+2025-05-18 02:02:08,480 - Connection closed while receiving data: [Errno 103] Software caused connection abort
+2025-05-18 02:02:08,482 - Closing current connection to begin reconnect...
+2025-05-18 02:02:08,483 - <class 'ConnectionAbortedError'> during disconnect: [Errno 103] Software caused connection abort
+2025-05-18 02:02:08,485 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-18 02:02:08,910 - Attempt 1 at connecting failed: ConnectionAbortedError: [Errno 103] Connect call failed ('91.108.56.123', 443)
+2025-05-18 02:02:09,915 - Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-18 02:02:10,953 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-18 02:09:11,873 - Got difference for channel 1180605382 updates
+2025-05-18 02:10:05,604 - Got difference for channel 1180605382 updates
+2025-05-18 02:18:45,583 - Got difference for channel 1180605382 updates
+2025-05-18 02:20:06,055 - Got difference for channel 1180605382 updates
+2025-05-18 02:25:32,122 - Got difference for channel 1180605382 updates
+2025-05-18 02:37:55,085 - Got difference for channel 1180605382 updates
+2025-05-18 02:40:53,463 - Got difference for channel 1180605382 updates
+2025-05-18 02:41:02,749 - Got difference for channel 1180605382 updates
+2025-05-18 02:47:28,253 - Got difference for channel 1180605382 updates
+2025-05-18 02:50:06,678 - Got difference for channel 1180605382 updates
+2025-05-18 02:53:12,425 - Got difference for channel 1180605382 updates
+2025-05-18 02:55:38,512 - Got difference for channel 1180605382 updates
+2025-05-18 02:57:04,001 - Got difference for channel 1180605382 updates
+2025-05-18 02:58:44,837 - Got difference for channel 1180605382 updates
+2025-05-18 03:00:20,032 - Got difference for channel 1180605382 updates
+2025-05-18 03:06:38,126 - Got difference for channel 1180605382 updates
+2025-05-18 03:10:05,262 - Got difference for channel 1180605382 updates
+2025-05-18 03:16:11,492 - Got difference for channel 1180605382 updates
+2025-05-18 03:19:34,234 - Got difference for channel 1180605382 updates
+2025-05-18 03:25:47,108 - Got difference for channel 1180605382 updates
+2025-05-18 03:31:04,174 - Got difference for channel 1180605382 updates
+2025-05-18 03:34:18,990 - Got difference for channel 1180605382 updates
+2025-05-18 03:37:21,456 - Got difference for channel 1180605382 updates
+2025-05-18 03:40:05,862 - Got difference for channel 1180605382 updates
+2025-05-18 03:44:21,373 - Got difference for channel 1180605382 updates
+2025-05-18 03:46:52,070 - Got difference for channel 1180605382 updates
+2025-05-18 03:50:18,566 - Got difference for channel 1180605382 updates
+2025-05-18 03:53:03,430 - Got difference for channel 1180605382 updates
+2025-05-18 03:54:22,903 - Saved 1 messages to storage
+2025-05-18 03:54:22,905 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-18 03:58:05,510 - Got difference for channel 1180605382 updates
+2025-05-18 04:01:07,751 - Got difference for channel 1180605382 updates
+2025-05-18 04:02:11,553 - Server closed the connection: [Errno 103] Software caused connection abort
+2025-05-18 04:02:11,556 - Connection closed while receiving data: [Errno 103] Software caused connection abort
+2025-05-18 04:02:11,558 - Closing current connection to begin reconnect...
+2025-05-18 04:02:11,561 - <class 'ConnectionAbortedError'> during disconnect: [Errno 103] Software caused connection abort
+2025-05-18 04:02:11,563 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-18 04:02:11,593 - Attempt 1 at connecting failed: ConnectionAbortedError: [Errno 103] Connect call failed ('91.108.56.123', 443)
+2025-05-18 04:02:12,599 - Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-18 04:02:13,640 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-18 04:04:14,606 - Got difference for channel 1180605382 updates
+2025-05-18 04:10:05,736 - Got difference for channel 1180605382 updates
+2025-05-18 04:13:28,319 - Got difference for channel 1180605382 updates
+2025-05-18 04:15:29,198 - Got difference for channel 1180605382 updates
+2025-05-18 04:18:58,797 - Got difference for channel 1180605382 updates
+2025-05-18 04:21:02,654 - Got difference for channel 1180605382 updates
+2025-05-18 04:25:11,646 - Got difference for channel 1180605382 updates
+2025-05-18 04:26:18,959 - Got difference for channel 1180605382 updates
+2025-05-18 04:34:45,292 - Got difference for channel 1180605382 updates
+2025-05-18 04:40:19,354 - Got difference for channel 1180605382 updates
+2025-05-18 04:50:06,955 - Got difference for channel 1180605382 updates
+2025-05-18 04:57:39,847 - Got difference for channel 1180605382 updates
+2025-05-18 05:00:05,827 - Got difference for channel 1180605382 updates
+2025-05-18 05:01:47,844 - Got difference for channel 1180605382 updates
+2025-05-18 05:03:12,682 - Got difference for channel 1180605382 updates
+2025-05-18 05:06:58,843 - Got difference for channel 1180605382 updates
+2025-05-18 05:08:01,139 - Got difference for channel 1350748176 updates
+2025-05-18 05:09:18,870 - Got difference for channel 1180605382 updates
+2025-05-18 05:09:48,754 - Got difference for channel 1180605382 updates
+2025-05-18 05:11:03,493 - Got difference for channel 1180605382 updates
+2025-05-18 05:13:06,516 - Got difference for channel 1180605382 updates
+2025-05-18 05:15:01,148 - Got difference for channel 1180605382 updates
+2025-05-18 05:20:05,676 - Got difference for channel 1180605382 updates
+2025-05-18 05:24:41,680 - Got difference for channel 1180605382 updates
+2025-05-18 05:26:12,589 - Got difference for channel 1458088362 updates
+2025-05-18 05:27:35,731 - Got difference for channel 1180605382 updates
+2025-05-18 05:30:19,381 - Got difference for channel 1180605382 updates
+2025-05-18 05:34:18,671 - Got difference for channel 1180605382 updates
+2025-05-18 05:40:06,324 - Got difference for channel 1180605382 updates
+2025-05-18 05:49:36,082 - Got difference for channel 1180605382 updates
+2025-05-18 05:53:32,608 - Got difference for channel 1180605382 updates
+2025-05-18 05:56:06,466 - Got difference for channel 1180605382 updates
+2025-05-18 05:56:28,301 - Saved 2 messages to storage
+2025-05-18 05:56:28,305 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 2
+2025-05-18 05:56:52,632 - Saved 3 messages to storage
+2025-05-18 05:56:52,633 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 3
+2025-05-18 05:56:57,190 - Saved 4 messages to storage
+2025-05-18 05:56:57,190 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 4
+2025-05-18 05:57:02,786 - Saved 5 messages to storage
+2025-05-18 05:57:02,787 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 5
+2025-05-18 05:57:10,635 - Saved 6 messages to storage
+2025-05-18 05:57:10,636 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 6
+2025-05-18 05:57:26,236 - Saved 7 messages to storage
+2025-05-18 05:57:26,237 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 7
+2025-05-18 05:57:53,356 - Saved 0 messages to storage
+2025-05-18 05:57:53,357 - 🗑️ Antrian pesan dibersihkan
+2025-05-18 05:57:57,417 - Saved 1 messages to storage
+2025-05-18 05:57:57,418 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 1
+2025-05-18 05:59:18,876 - Saved 2 messages to storage
+2025-05-18 05:59:18,878 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 2
+2025-05-18 06:00:35,703 - Got difference for channel 1180605382 updates
+2025-05-18 06:01:33,996 - Saved 3 messages to storage
+2025-05-18 06:01:33,997 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 3
+2025-05-18 06:01:39,722 - Saved 4 messages to storage
+2025-05-18 06:01:39,723 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 4
+2025-05-18 06:02:13,420 - Server closed the connection: [Errno 103] Software caused connection abort
+2025-05-18 06:02:13,421 - Connection closed while receiving data: [Errno 103] Software caused connection abort
+2025-05-18 06:02:13,422 - Closing current connection to begin reconnect...
+2025-05-18 06:02:13,423 - <class 'ConnectionAbortedError'> during disconnect: [Errno 103] Software caused connection abort
+2025-05-18 06:02:13,424 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-18 06:02:13,699 - Attempt 1 at connecting failed: ConnectionAbortedError: [Errno 103] Connect call failed ('91.108.56.123', 443)
+2025-05-18 06:02:14,705 - Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+2025-05-18 06:02:15,751 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-18 06:02:26,934 - Got difference for channel 1180605382 updates
+2025-05-18 06:03:13,141 - Got difference for channel 1180605382 updates
+2025-05-18 06:04:24,657 - Got difference for channel 1180605382 updates
+2025-05-18 06:06:25,136 - Got difference for channel 1180605382 updates
+2025-05-18 06:10:05,159 - Got difference for channel 1180605382 updates
+2025-05-18 06:10:41,170 - Got difference for channel 1458088362 updates
+2025-05-18 06:12:50,461 - Got difference for channel 1180605382 updates
+2025-05-18 06:14:32,251 - Got difference for channel 1180605382 updates
+2025-05-18 06:18:05,197 - Got difference for channel 1180605382 updates
+2025-05-18 06:21:08,397 - Got difference for channel 1180605382 updates
+2025-05-18 06:26:21,086 - Got difference for channel 1180605382 updates
+2025-05-18 06:30:05,456 - Got difference for channel 1180605382 updates
+2025-05-18 06:35:50,046 - Got difference for channel 1180605382 updates
+2025-05-18 06:40:06,540 - Got difference for channel 1180605382 updates
+2025-05-18 06:40:09,029 - Got difference for channel 2037581701 updates
+2025-05-18 06:41:42,075 - Got difference for channel 1180605382 updates
+2025-05-18 06:42:37,864 - Got difference for channel 1180605382 updates
+2025-05-18 06:42:42,644 - Got difference for channel 1165415900 updates
+2025-05-18 06:50:40,801 - Got difference for channel 1180605382 updates
+2025-05-18 06:59:23,296 - Got difference for channel 1458088362 updates
+2025-05-18 06:59:31,324 - Got difference for channel 1180605382 updates
+2025-05-18 07:03:02,409 - Got difference for channel 1180605382 updates
+2025-05-18 07:06:00,711 - Got difference for channel 1180605382 updates
+2025-05-18 07:09:11,362 - Got difference for channel 1180605382 updates
+2025-05-18 07:10:05,189 - Got difference for channel 1180605382 updates
+2025-05-18 07:12:45,712 - Got difference for channel 1180605382 updates
+2025-05-18 07:13:16,921 - Got difference for channel 1108308377 updates
+2025-05-18 07:13:17,144 - Got difference for channel 1048910279 updates
+2025-05-18 07:20:05,903 - Got difference for channel 1180605382 updates
+2025-05-18 07:22:07,950 - Got difference for channel 1180605382 updates
+2025-05-18 07:23:49,034 - Got difference for channel 1180605382 updates
+2025-05-18 07:25:00,194 - Got difference for channel 1180605382 updates
+2025-05-18 07:25:23,850 - Got difference for channel 1180605382 updates
+2025-05-18 07:27:06,499 - Got difference for channel 1180605382 updates
+2025-05-18 07:30:08,153 - Got difference for channel 1180605382 updates
+2025-05-18 07:32:10,373 - Got difference for channel 1180605382 updates
+2025-05-18 07:39:30,279 - Got difference for channel 1180605382 updates
+2025-05-18 07:40:07,194 - Got difference for channel 1180605382 updates
+2025-05-18 07:41:54,683 - Got difference for channel 1180605382 updates
+2025-05-18 07:44:58,106 - Got difference for channel 1180605382 updates
+2025-05-18 07:49:11,383 - Got difference for channel 1180605382 updates
+2025-05-18 07:50:46,726 - Got difference for channel 1180605382 updates
+2025-05-18 07:54:59,471 - Got difference for channel 1180605382 updates
+2025-05-18 07:56:21,979 - Got difference for channel 1180605382 updates
+2025-05-18 07:57:08,914 - Got difference for channel 1180605382 updates
+2025-05-18 07:57:21,593 - Saved 5 messages to storage
+2025-05-18 07:57:21,598 - Pesan baru ditambahkan ke antrian. Jumlah pesan: 5
+2025-05-22 16:03:42,010 - Loaded 5 messages from storage
+2025-05-22 16:03:42,020 - Loaded cooldowns for 16 groups
+2025-05-22 16:03:42,025 - Saved cooldowns for 0 groups
+2025-05-22 16:03:42,026 - Removed 16 expired cooldowns
+2025-05-22 16:03:42,028 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-22 16:03:42,051 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-22 16:03:42,585 - Client telah terhubung
+2025-05-22 16:03:42,625 - Successfully connected to user: digiprosb_cs
+2025-05-22 16:03:42,628 - Event handlers have been set up successfully
+2025-05-22 16:03:42,729 - Pesan startup berhasil dikirim
+2025-05-22 16:03:56,863 - Got difference for account updates
+2025-05-23 07:03:21,038 - Loaded 5 messages from storage
+2025-05-23 07:03:21,047 - Loaded cooldowns for 0 groups
+2025-05-23 07:03:21,049 - Connecting to 91.108.56.123:443/TcpFull...
+2025-05-23 07:03:21,074 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-05-23 07:03:21,499 - Client telah terhubung
+2025-05-23 07:03:21,538 - Successfully connected to user: digiprosb_cs
+2025-05-23 07:03:21,541 - Event handlers have been set up successfully
+2025-05-23 07:03:21,727 - Pesan startup berhasil dikirim
+2025-10-04 20:28:11,387 - Loaded 5 messages from storage
+2025-10-04 20:28:11,397 - Loaded cooldowns for 0 groups
+2025-10-04 20:28:11,399 - Connecting to 91.108.56.123:443/TcpFull...
+2025-10-04 20:28:11,424 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-10-04 20:28:38,943 - Error saat menjalankan client: The phone number is invalid (caused by SendCodeRequest)
+2025-10-04 20:28:49,630 - Loaded 5 messages from storage
+2025-10-04 20:28:49,636 - Loaded cooldowns for 0 groups
+2025-10-04 20:28:49,638 - Connecting to 91.108.56.123:443/TcpFull...
+2025-10-04 20:28:49,665 - Connection to 91.108.56.123:443/TcpFull complete!
+2025-10-04 20:29:51,678 - Client telah terhubung
+2025-10-04 20:29:51,721 - Successfully connected to user: digiprosb_cs
+2025-10-04 20:29:51,724 - Event handlers have been set up successfully
+2025-10-04 20:29:51,842 - Pesan startup berhasil dikirim
